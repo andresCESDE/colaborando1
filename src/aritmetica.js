@@ -6,6 +6,7 @@ const sumar = (numero1, numero2) => numero1 + numero2;
 
 const restar = (numero1, numero2) => numero1 - numero2;
 
+
 // se crea la funcion dividir desde el equipo local
 
 const dividir = (numero1, numero2) => {
@@ -15,3 +16,8 @@ const dividir = (numero1, numero2) => {
     }
     return numero1 / numero2;
 }
+
+// se crea la funcion multiplicacion desde Codespaces
+
+const multiplicar = (numero1, numero2) => numero1 * numero2;
+
