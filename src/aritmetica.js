@@ -21,3 +21,11 @@ const dividir = (numero1, numero2) => {
 
 const multiplicar = (numero1, numero2) => numero1 * numero2;
 
+const fibonacci = (posicion) => {
+  if (posicion == 0) return 0;
+  if (posicion == 1) return 1;
+  return fibonacci(posicion -1) + fibonacci(posicion -2);
+}
+
+quo
+
