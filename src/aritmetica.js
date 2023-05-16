@@ -2,6 +2,10 @@ function suma(numero1, numero2) {
     return numero1 + numero2
 }
 
+function resta(numero1, numero2) {
+    return numero1 - numero2;
+}
+
 const multiplicar = (numero1, numero2) => numero1 * numero2;
 
 // se crea la funcion de factorial
